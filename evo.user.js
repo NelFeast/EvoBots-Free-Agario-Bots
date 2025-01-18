@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         EvoBots - Player Helper
 // @namespace    EvoBots - Free Player Helper 2025
-// @version      1.0
+// @version      1.1
 // @description  EvoBots - Free Player Helper 2025
 // @author       NelFeast
 // @match        *://agar.io/*
